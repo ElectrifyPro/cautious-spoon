@@ -1,0 +1,207 @@
+Designing For Digital Communication Segment
+1. Digital Graphic Design
+• Is the process used to:
+– announce or sell something
+– amuse or persuade someone
+– explain a complicated message
+Fun Fact: Apple was the first to produce computers which had bitmap graphics – the origin of modern computerized graphic design.
+2. Digital Graphic Design
+• Uses a variety of communication tools in order to portray the digital message
+• Includes the following main tools:
+– image
+– typography
+Fun Fact: Typography within graphic design involves choosing the appropriate typefaces and creating their arrangement on the page.
+3. Digital Design Elements
+• Are the basic components used in part of any digital publication
+• Include the following:
+– text
+– graphics
+– titles
+– color
+– white space
+4. Digital Text
+• May be an important part of digital design
+– it has the ability to convey complicated concepts
+• Makes up the following:
+– titles
+– subtitles
+– copy
+5. Typeface
+• Refers to a set of characters with the same design
+• Includes the stylization of characters such as:
+– letters
+– numbers
+– symbols
+– punctuation marks
+6. Font
+• Is the specific size and shape of the typeface
+• Should be clear and easy to read
+• Should be limited in one publication
+– no more than four fonts
+Fun Fact: With the introduction of computers, the terms font and typeface are often used interchangeably, however they are not the same.
+7. Font
+• Includes the following:
+– italics
+– underline
+– bold
+• Can be used to emphasize words or phrases
+– however, overuse can be a distraction or decrease readability
+8. Font Size
+• Determines how small or large a character is
+• Is measured in points
+9. Image or Graphic Size
+• Determines how small or large an image or character is
+• Is measured in the following:
+– picas (pc)
+– millimeters (mm)
+– centimeters (cm)
+– inches (in)
+10. Title
+• Is a phrase intended to attract a reader’s attention
+• Is usually distinguished by its contrast
+– size
+– color
+– whitespace
+11. Title
+• Directs readers to illustrations and text
+• Attracts a specific target market
+• Should be creative and brief
+• Inspires emotion, such as:
+– curiosity
+– laughter
+– thoughtfulness
+– nostalgia
+12. Copy
+• Refers to the main text of a publication
+• Details the information, explanations or purpose of the publication
+• Should be direct and simple
+• Should explain the who, what, where, when, why and how of the publication
+• Should be easy to follow
+13. Color
+• Can be used in the visuals, text and background of a publication
+• Draws a reader’s attention
+• Can have a psychological affect on the reader
+• Should be based on the intended message and image of the publication
+14. Color
+• Can evoke the following feelings in the consumer:
+– red: energy, power, passion
+– orange: determination, fascination, encouragement
+– yellow: joy, happiness, intellect
+– green: growth, harmony, freshness, health
+– blue: trust, loyalty, faith
+Fun Fact: Yellow surroundings seem to enhance the performance of schoolchildren.
+15. The Color Wheel
+• Is a useful tool in determining which colors to use in a production
+• Aids in creating a variety of color schemes
+– each color scheme can give the message a different style
+– color schemes are used to make the message more appealing to the reader
+16. White Space
+• Is also referred to as negative space or blank space
+• Refers to the portions of the page which are unused
+• Is the space between the graphics, text and any other elements
+– including margins, line spacing, etc.
+• Does not have to be white
+– it is whatever the background color is
+17. White Space
+• Is an important element in creating a desirable layout because it allows for the following:
+– readability
+– balance
+– flow
+18. Graphic Design Concepts
+• Include the following:
+– balance
+– proximity
+– alignment
+– consistency
+– contrast
+19. Balance
+• Is the way a production’s lines, shapes, colors and textures are arranged
+• Directs the viewers’ eyes
+• Should be symmetrical, asymmetrical or radial
+– symmetrical: one side matches the other
+– asymmetrical: sides do not match; balance is achieved through tricks of the eye
+– radial: all elements spread out from a center point
+20. Balance
+• Is commonly achieved using the rule of thirds
+– break an image into thirds horizontally and vertically so the picture has nine parts (red lines)
+– focal points should be at the intersections(green dots)
+Fun Fact: Studies show when viewing images, people’s eyes go to one of the intersection points of the rule of thirds more naturally than the center of the shot.
+21. Proximity
+• Is the location of items in relation to one another
+• Can determine or describe relationships between elements
+• Is one of the easiest ways to give a production an organized feel and create a visual structure
+22. Alignment
+• Refers to the lining up or arrangement of text and graphics on the page
+• Is achieved by positioning text or graphics the following ways:
+– flush left
+– flush right
+– centered
+– fully justified
+23. Consistency
+• Refers to the unchanging look and feel of a production
+• Can be created through the use of similar and cohesive typeface, colors and graphics
+• Should make navigation easier for the reader
+• Can be accomplished by using an accessible and effective page such as a master template
+Navigate, in graphic design terms, is to direct, guide or move a viewer’s eye in a particular direction.
+24. Contrast
+• Refers to the combination and arrangement of varying and opposite design elements
+• Is accomplished by using different sizes,colors, fonts, etc.
+25. Layout
+• Is the placement of design elements
+• Is effective when it:
+– is easy to read
+– is pleasing to the eye
+– conveys a specific message
+– is organized and meaningful
+26. Layout Design
+• Tips include:
+– consider the relationship between size and proximity of each item
+– balance the weight of pictures and text
+– divide the page into thirds
+– use repetition and similar design patterns
+– match the layout to the publication
+– use master templates when needed
+27. Master Template
+• Is a page design pattern used as the basis for creating other pages of a production
+• Contains layout, background format,theme colors, fonts and effects
+• Allows a designer to place elements once and change details, such as text, without having to create each page individually
+28. Master Template
+• Can be used in multiple design programs
+– Microsoft® Office
+– Adobe®
+29. Editing
+• Is performed in order to:
+– remove unwanted material
+– shorten or resize the material
+– create a flow
+– add graphics, music and/or effects
+30. Copy Editing
+• Is used to correct errors and prepare text for publication
+• Includes:
+– editing
+– proofreading
+• Should correct mistakes such as:
+– spelling, grammar and punctuation errors
+– repeated words and phrases
+– undefined and improperly used words
+Whether posting on a social network or writing a review, always proof what is written to ensure messages are clear, concise and free of errors.
+31. Photo Editing
+• Is altering a graphic or image
+• Capabilities include:
+– altering color
+– cropping, slicing and merging images
+– sharpening and softening
+– adding special effects 
+(distortion, texture, etc.)
+• Is typically done using software including:
+– Adobe® Photoshop®
+– Adobe® Lightroom®
+32. Video Editing
+• Is the process of altering video
+• Allows for rearrangement, color changes,filters, transitions, effects and more
+• Is typically done using software including:
+– CyberLink PowerDirector
+– Corel® VideoStudio Pro
+– Final Cut Pro®
+– Adobe® Premiere® Elements
+– Roxio Creator®
